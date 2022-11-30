@@ -22,5 +22,6 @@
 </div>
 
 # 📝 PS
+이번 달 목표 : 골드4
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgnswls1)](https://solved.ac/wnsgnswls1/)
