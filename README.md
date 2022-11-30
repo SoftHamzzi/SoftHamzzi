@@ -21,6 +21,6 @@
   <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 </div>
 
-# 📝 TIER
+# 📝 PS
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgnswls1)](https://solved.ac/wnsgnswls1/)
