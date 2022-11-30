@@ -19,4 +19,6 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 
+# 📝 TIER
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgnswls1)](https://solved.ac/wnsgnswls1/)
