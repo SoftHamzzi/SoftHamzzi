@@ -1,4 +1,5 @@
-Hello, I'm promoting with the nickname Hamrang.
+# 🙌 Introduce
+Hello, I'm promoting with the nickname Hamrang.<br>
 I'm interested in game development🕹 and i'm currently a college student.
 
 # ✨Interest
