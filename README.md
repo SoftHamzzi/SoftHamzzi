@@ -38,6 +38,8 @@ I'm interested in game development🕹 and i'm currently a college student.
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/UE5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </div>
 
 # 📝 PS
