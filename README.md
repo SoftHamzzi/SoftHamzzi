@@ -2,6 +2,8 @@
 Hello, I'm promoting with the nickname Hamrang.<br>
 I'm interested in game development🕹 and i'm currently a college student.
 
+*Blog: https://softhamzzi.github.io
+
 # ✨Interest
 <div>
   <img src="https://img.shields.io/badge/UE5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
