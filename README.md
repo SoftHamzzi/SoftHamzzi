@@ -4,9 +4,9 @@ I'm interested in game development🕹 and i'm currently a college student.
 
 **🌿Blog: https://softhamzzi.github.io**
 <br>
-**📝Assignment: https://trello.com/b/ItlMALud/%ED%95%A0-%EC%9D%BC**
+**📝Assignment: https://trello.com/b/odsjc0As/%EA%B3%BC%EC%A0%9C**
 <br>
-**▶️A thing to do: https://trello.com/b/odsjc0As/%EA%B3%BC%EC%A0%9C**
+**▶️A thing to do: https://trello.com/b/ItlMALud/%ED%95%A0-%EC%9D%BC**
 
 # ✨Interest
 <div>
