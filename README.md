@@ -45,5 +45,7 @@ I'm interested in game development🕹 and i'm currently a college student.
 </div>
 
 # 📝 PS
-
+![Hamrang's GitHub stats](https://github-readme-stats.vercel.app/api?username=softhamzzi&show_icons=true&theme=radical)
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgnswls1)](https://solved.ac/wnsgnswls1/)
+-->
