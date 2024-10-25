@@ -44,8 +44,8 @@ I'm interested in game development🕹 and i'm currently a college student.
   <img src="https://img.shields.io/badge/UE5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </div>
 
-# 📝 PS
-![Hamrang's GitHub stats](https://github-readme-stats.vercel.app/api?username=softhamzzi&show_icons=true&theme=radical)
 <!--
+# 📝 STAT
+![Hamrang's GitHub stats](https://github-readme-stats.vercel.app/api?username=softhamzzi&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgnswls1)](https://solved.ac/wnsgnswls1/)
 -->
