@@ -1,6 +1,6 @@
 # 🙌 Introduce
 Hello, I'm promoting with the nickname Hamrang.<br>
-I'm interested in game development🕹 and i'm currently a college student.
+I'm interested in game development🕹 and I'm currently studying in preparation for employment.
 
 **🌿Blog: https://softhamzzi.github.io**
 
