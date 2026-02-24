@@ -1,44 +1,55 @@
 # 🙌 Introduce
-Hello, I'm promoting with the nickname Hamrang.<br>
-I'm interested in game development🕹 and I'm currently studying in preparation for employment.
+
+**햄랑**이라는 닉네임으로 활동하고 있는 게임 개발자입니다.
+
+언리얼에 대한 깊은 이해를 위해, UE5 C++ 기반으로 멀티플레이 전투 시스템을 개발하고 있습니다.
+
+현재는 전투 중심의 Gameplay 시스템과 
+Dedicated Server 환경에서의 동작을 깊이 이해하는 것을 목표로 하고 있습니다.
 
 **🌿Blog: https://softhamzzi.github.io**
 
-# 🔥 Primary/Interest
-<div>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/UE5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DirectX11-FFFFFF?style=for-the-badge&logo=DirectX11&logoColor=black"/>
-  <br>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-</div>
+## 🎯 Current Focus
 
-# 📦 Pool
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-7F52FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</div>
+- Unreal Engine 5 (C++)
+- Multiplayer Replication & RPC
+- Dedicated Server Architecture
+- Combat-oriented Gameplay Design
+- Gameplay Ability System (learning & applying)
+- Lag Compensation (research & implementation in progress)
 
-# 🔧 TOOL
-<div>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/UE5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-</div>
+## 🎮 Main Project
+
+### Multiplayer Extraction Shooter (In Progress)
+
+UE5 기반의 멀티플레이 FPS 프로젝트입니다.
+
+- Replication 기반 네트워크 개발
+- 네트워크 환경에서의 전투 반응성 개선 실험
+- Server-authoritative 구조
+- GAS 활용
+- Data-Driven 설계
+
+> 목표: 지연 환경에서도 공정하고 반응성 있는 PvP 전투 구현
+
+## 🧠 Engineering Interest
+
+저는 단순히 기능을 구현하는 것보다,
+
+- 상태 기반 설계
+- 전투의 반응성과 공정성
+- 확장 가능한 시스템 구조
+
+에 관심이 많습니다.
+
+---
+
+## 📂 Other Experience
+
+- Just A Dream: Unreal Engine 기반 팀 프로젝트
+- Game Jam 참가 경험
+- Graduation Project  
+  (Unity + LLM 기반 성격 유형에 따른 반응 분석)
 
 <!--
 # 📝 STAT
