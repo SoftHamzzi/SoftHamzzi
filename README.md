@@ -9,7 +9,8 @@ Dedicated Server 환경에서의 동작을 깊이 이해하는 것을 목표로 
 
 **🌿Blog: https://softhamzzi.github.io**
 
-블로그에서는 **회고, C++, Server, 포트폴리오, PS, Techniques 등**을 작성하고 있습니다.
+저의 블로그에서는 **회고**를 지속적으로 작성함으로써,  
+더 나은 개발자가 되기 위해 노력하고 있습니다!
 
 ## 🎯 Current Focus
 
