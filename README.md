@@ -22,6 +22,8 @@ Dedicated Server 환경에서의 동작을 깊이 이해하는 것을 목표로 
 
 ### Multiplayer Extraction Shooter (In Progress)
 
+> [UE5-EmploymentProj 레포지터리](https://github.com/SoftHamzzi/UE5-EmploymentProj)
+
 UE5 기반의 멀티플레이 FPS 프로젝트입니다.
 
 - Replication 기반 네트워크 개발
