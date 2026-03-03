@@ -46,9 +46,10 @@ UE5 기반의 멀티플레이 FPS 프로젝트입니다.
 
 ## 📂 Other Experience
 
-- Just A Dream: Unreal Engine 기반 팀 프로젝트
+- [Just A Dream](https://github.com/SoftHamzzi/UE5-JustADream): Unreal Engine 기반 팀 프로젝트
 - Game Jam 참가 경험
-- Graduation Project  
+  - [Drama Q's](https://github.com/SoftHamzzi/2026GGJ-DramaQ-s)
+- [Graduation Project](https://github.com/SoftHamzzi/PNU-24-CapstonePublic)  
   (Unity + LLM 기반 성격 유형에 따른 반응 분석)
 
 <!--
