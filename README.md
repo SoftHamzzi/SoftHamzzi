@@ -52,6 +52,11 @@ UE5 기반의 멀티플레이 FPS 프로젝트입니다.
 - [Graduation Project](https://github.com/SoftHamzzi/PNU-24-CapstonePublic)  
   (Unity + LLM 기반 성격 유형에 따른 반응 분석)
 
+- 그 외(유튜브)
+  - [유데미 언리얼 C++ 학습](https://youtu.be/vf863Zse9NA)
+  - [유니티 맵 생성](https://youtu.be/_zJz7gUpRNc)
+  - [유니티 마인크래프트](https://youtu.be/p7b5OZ9Qnp0)
+
 <!--
 # 📝 STAT
 ![Hamrang's GitHub stats](https://github-readme-stats.vercel.app/api?username=softhamzzi&show_icons=true&theme=radical)
