@@ -17,8 +17,8 @@ Dedicated Server 환경에서의 동작을 깊이 이해하는 것을 목표로 
 - Multiplayer Replication & RPC
 - Dedicated Server Architecture
 - Combat-oriented Gameplay Design
-- Gameplay Ability System (learning & applying)
-- Lag Compensation (research & implementation in progress)
+- Gameplay Ability System (research & implementation in progress)
+- Lag Compensation
 
 ## 🎮 Main Project
 
@@ -62,4 +62,4 @@ UE5 기반의 멀티플레이 FPS 프로젝트입니다.
   - [유니티 마인크래프트](https://youtu.be/p7b5OZ9Qnp0)
 
 ## 📝 STAT
-![Hamrang's GitHub stats](https://github-readme-stats.vercel.app/api?username=softhamzzi&show_icons=true&theme=radical)
+[![Hamrang's GitHub stats](https://github-readme-stats.vercel.app/api?username=softhamzzi)](https://github.com/anuraghazra/github-readme-stats)
