@@ -61,8 +61,5 @@ UE5 기반의 멀티플레이 FPS 프로젝트입니다.
   - [유니티 맵 생성](https://youtu.be/_zJz7gUpRNc)
   - [유니티 마인크래프트](https://youtu.be/p7b5OZ9Qnp0)
 
-<!--
-# 📝 STAT
+## 📝 STAT
 ![Hamrang's GitHub stats](https://github-readme-stats.vercel.app/api?username=softhamzzi&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgnswls1)](https://solved.ac/wnsgnswls1/)
--->
