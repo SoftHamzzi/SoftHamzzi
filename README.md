@@ -7,7 +7,8 @@
 현재는 전투 중심의 Gameplay 시스템과 
 Dedicated Server 환경에서의 동작을 깊이 이해하는 것을 목표로 하고 있습니다.
 
-**🌿Blog: https://softhamzzi.github.io**
+> **🌿Blog: https://softhamzzi.github.io**  
+> **💼LinkedIn: https://www.linkedin.com/in/youngjin-lee-7211413b9/**
 
 > 저의 블로그에서는 **회고**를 지속적으로 작성함으로써 차별점을 두고, 이 분야에서 이름을 남기기 위해 노력하고 있습니다!
 
